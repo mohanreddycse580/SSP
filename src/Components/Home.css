@@ -1,0 +1,17 @@
+.btn-primary {
+  background-image: none;
+  border: none;
+  border-radius: 4px;
+  background-color: #2892d7;
+}
+
+h2 {
+  color: skyblue;
+}
+p {
+  color: grey;
+}
+
+.adjust {
+  margin-top: 10px;
+}

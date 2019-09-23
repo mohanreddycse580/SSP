@@ -1,0 +1,42 @@
+.containerclaims {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+h1 {
+  color: black;
+}
+.select {
+  height: 30px;
+}
+
+option {
+  text-align: center;
+}
+
+.table1 {
+  margin-top: 40px;
+  border: 1px solid back;
+}
+
+.tableconfig1 {
+  margin-left: 20px;
+  border: 1px solid back;
+}
+
+.thconfig1 {
+  padding-left: 15px;
+  padding-bottom: 10px;
+  border: 1px solid back;
+}
+
+td.tdconfigf1 {
+  width: 200px;
+  text-align: center;
+  border: 1px solid back;
+}
+
+.tbodyconfig1 {
+  margin-left: 15px;
+  border: 1px solid back;
+}

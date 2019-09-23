@@ -1,0 +1,40 @@
+.containerclaims {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+h1 {
+  color: black;
+}
+.select {
+  height: 30px;
+}
+
+option {
+  text-align: center;
+}
+
+.table1 {
+  margin-top: 40px;
+}
+
+.tableconfig1 {
+  margin-left: 20px;
+}
+
+.thconfig1 {
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+.tdconfigf1 {
+  margin-left: 15px;
+}
+
+.tbodyconfig1 {
+  margin-left: 15px;
+}
+
+.inputstyle {
+  border-radius: 0px;
+}
